@@ -16,6 +16,9 @@
 					'<form action="" id="data-submit">' +
 						'<select id="data-size">' +
 						   	'<option value ="20">20</option>' +
+						   	'<option value ="24">24</option>' +
+						   	'<option value ="26">26</option>' +
+						   	'<option value ="32">32</option>' +
 						'</select>' +
 						'<input type="color" id="data-color"><br>' +
 						'<input type="text" id="data-msg" required>' +

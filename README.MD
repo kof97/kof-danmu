@@ -25,12 +25,12 @@
 
 ```
 	<script>
-		(function($) {
-			$("#yourId").danmu({
+		$(document).ready(function() {
+			var k = $("#kk").danmu({
 				width: '500', 
 				height: '300',
 			});	
-		});  
+		}); 
 	</script>
 ```
 
