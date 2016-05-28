@@ -31,11 +31,14 @@
 				width: '500', 
 				height: '300',
 			});	
-			
+
 		}); 
 	</script>
 ```
 
 OK，结束了，运行下看看效果吧
+
+关于实时弹幕的话请看这个： git@github.com:kof97/realtime-danmu.git
+基于 `node.js` 和 `socket.io` 的实时弹幕
 
 ---
