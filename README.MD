@@ -25,11 +25,13 @@
 
 ```
 	<script>
-		$(document).ready(function() {
-			var k = $("#kk").danmu({
+		$(function() {
+
+			var k = $("#yourId").danmu({
 				width: '500', 
 				height: '300',
 			});	
+			
 		}); 
 	</script>
 ```
