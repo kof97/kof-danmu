@@ -1,6 +1,6 @@
-# `jQuery` 弹幕插件
+# kof 系列 jQuery 插件之 `弹幕` 插件
 
-`jquery.kof.danmu.js`
+jquery.kof.danmu.js
 
 ---
 
@@ -42,7 +42,7 @@ OK，结束了，运行下看看效果吧
 
 PS: 关于实时弹幕的话请看这个: 
 
-> git@github.com:kof97/realtime-danmu.git
+> [基于 `node.js` 和 `socket.io` 的实时弹幕](git@github.com:kof97/realtime-danmu.git)
 
 基于 `node.js` 和 `socket.io` 的实时弹幕
 
